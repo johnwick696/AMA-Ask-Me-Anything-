@@ -23,7 +23,7 @@ def speak(text):
     engine.say(text)
     engine.runAndWait()
 
-speak("Hello How Are You? ")
+speak("Hello my name is AMA how can i help you ? ")
 
 def takeCommand():
     r=sr.Recognizer()
